@@ -7,16 +7,16 @@ Find the oldest possible VisualStudio and compile it with the oldest possible .N
 # Example usage
 
 ## Access the prompt
-![Screenshot](https://github.com/vmetodiev/moonlight/blob/main/Pictures/ML1.PNG)<br />
-![Screenshot](https://github.com/vmetodiev/moonlight/blob/main/Pictures/ML0.PNG)<br />
+![Screenshot](https://github.com/vmetodiev/moonlight/blob/master/Pictures/ML1.PNG)<br />
+![Screenshot](https://github.com/vmetodiev/moonlight/blob/master/Pictures/ML0.PNG)<br />
 ## Show the connection strings (added before compiling)
-![Screenshot](https://github.com/vmetodiev/moonlight/blob/main/Pictures/ML2.PNG)<br />
+![Screenshot](https://github.com/vmetodiev/moonlight/blob/master/Pictures/ML2.PNG)<br />
 ## Test connection to the database
-![Screenshot](https://github.com/vmetodiev/moonlight/blob/main/Pictures/ML3.PNG)<br />
+![Screenshot](https://github.com/vmetodiev/moonlight/blob/master/Pictures/ML3.PNG)<br />
 ## Enter the connection and execute pure SQL
-![Screenshot](https://github.com/vmetodiev/moonlight/blob/main/Pictures/ML4.PNG)<br />
+![Screenshot](https://github.com/vmetodiev/moonlight/blob/master/Pictures/ML4.PNG)<br />
 ## Add a new connection string (to a newly found DB, for example) 
-![Screenshot](https://github.com/vmetodiev/moonlight/blob/main/Pictures/ML5.PNG)<br />
+![Screenshot](https://github.com/vmetodiev/moonlight/blob/master/Pictures/ML5.PNG)<br />
 
 # Microsoft SQL cheatsheet
 // Show databases<br />
