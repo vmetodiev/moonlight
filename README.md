@@ -1,5 +1,5 @@
 # MoonLight
-A handy hacking tool written in a .NET 1.0-compatible code style for accessing databases over the network via the DB connection strings. Once connected to the database, the user is allowed to execute native SQL queries.
+A handy hacking tool written in a .NET 1.0-compatible code style for accessing MSSQL databases over the network via the DB connection strings. Once connected to the database, the user is allowed to execute native SQL queries.
 
 # Build Instructions
 Find the oldest possible VisualStudio and compile it with the oldest possible .NET version.
